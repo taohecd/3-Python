@@ -1,0 +1,8 @@
+%HOMEPATH%
+
+jupyter notebook --notebook-dir="C:\\Users\\taohe\\OneDrive - ISANS\\the-Personal\\20240509data\\4
+-Python"
+
+
+### <span style='color:red'> red  </span>
+### <span style = 'color:magenta'> 02-Arithmetic Operators </span>
